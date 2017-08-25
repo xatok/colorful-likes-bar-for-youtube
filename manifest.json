@@ -2,7 +2,7 @@
   "description": "Changes Youtube's likes bar palette into green/red.",
   "manifest_version": 2,
   "name": "Colorful likes bar for YouTube™",
-  "version": "1.1",
+  "version": "1.2",
   "homepage_url": "https://github.com/xatok/colorful-likes-bar-for-youtube",
   "page_action": {
     "browser_style": true
