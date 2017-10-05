@@ -9,6 +9,10 @@ Changes Youtube's likes bar palette into green/red.
 
 # Changelog
 
+## [1.5] 2017-10-05
+### Added
+- Updated for new YT design
+
 ## [1.4] 2017-08-26
 ### Added
 - Works in YT Material design:
